@@ -2,7 +2,7 @@
 
 #
 # Chainerで書いていたものをKerasで書き直す
-# 出力 - 回帰問題
+# 出力 - 分類問題
 #
 
 from keras.layers import Dense, Activation, Dropout
